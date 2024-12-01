@@ -1,1 +1,1 @@
-# rust_todo
+# TODO CLI made on Rust for fun 🥳
