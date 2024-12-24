@@ -22,5 +22,5 @@
 
 
 ```diff
-+ TODO: Write an README  
++ TODO: Write a README  
 ```
